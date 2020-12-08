@@ -37,7 +37,7 @@ ul{
 }
 
 li{
-    display: inlay;
+    display: inline;
 }
 
 .clearfix{
