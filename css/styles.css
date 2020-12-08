@@ -18,3 +18,12 @@ footer{
     clear:both;
     padding:30px;
 }
+
+.logoContainer{
+    float: left;
+    width: 200px;
+}
+
+.logoContainer .logo{
+    max-width: 100%;
+}
