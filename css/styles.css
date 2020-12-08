@@ -28,6 +28,18 @@ footer{
     max-width: 100%;
 }
 
+nav{
+    float:right;
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    display: inlay;
+}
+
 .clearfix{
     clear:both;
 }
