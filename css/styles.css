@@ -27,3 +27,7 @@ footer{
 .logoContainer .logo{
     max-width: 100%;
 }
+
+.clearfix{
+    clear:both;
+}
