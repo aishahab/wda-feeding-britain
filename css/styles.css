@@ -34,10 +34,24 @@ nav{
 
 ul{
     list-style-type:none;
+    background: red;
 }
 
 li{
     display: inline;
+    padding: 10px 20px;
+}
+
+li:hover{
+    background: green;
+}
+
+nav li a{
+    color: white;
+}
+
+li.active{
+    background:goldenrod;
 }
 
 .clearfix{
